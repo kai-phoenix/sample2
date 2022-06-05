@@ -8,3 +8,4 @@
 READMEに１行追記
 READMEにissue/bで１行追記
 READMEにissue/cで１行追記
+READMEにissue/dで１行追記
